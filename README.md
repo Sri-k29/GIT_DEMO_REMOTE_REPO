@@ -13,5 +13,3 @@ Modifying in local machine.
 Changes to check fetch command
 
 Editing in local to check pull request in github
-
-checking revert command
