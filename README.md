@@ -9,3 +9,5 @@ Editing file after pull from github
 Editing in github repo
 
 Modifying in local machine.
+
+Changes to check fetch command
